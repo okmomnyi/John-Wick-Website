@@ -1,3 +1,8 @@
+/**
+ * Header Component - Navigation header with responsive menu
+ * @author Ok Momanyi
+ */
+
 'use client';
 
 import { useState, useEffect } from 'react';

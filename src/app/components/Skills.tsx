@@ -1,3 +1,8 @@
+/**
+ * Skills Component - Displays John Wick's skills and abilities
+ * @author Ok Momanyi
+ */
+
 'use client';
 
 import { motion } from 'framer-motion';

@@ -1,5 +1,10 @@
 'use client';
 
+/**
+ * Hero Component - Main hero section with John Wick image and title
+ * @author Ok Momanyi
+ */
+
 import { motion } from 'framer-motion';
 import Image from 'next/image';
 

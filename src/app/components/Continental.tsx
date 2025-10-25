@@ -1,5 +1,10 @@
 'use client';
 
+/**
+ * Continental Component - Information about The Continental hotel
+ * @author Ok Momanyi
+ */
+
 import { motion } from 'framer-motion';
 import Image from 'next/image';
 
